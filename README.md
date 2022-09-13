@@ -1,6 +1,8 @@
 💎SON SUNG JUN
-![SJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj-son&show_icons=true&theme=gruvbox)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=son_sj)](https://solved.ac/son_sj/)
+
+![SJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj-son&show_icons=true&theme=gruvbox)
 
 
 <!--
