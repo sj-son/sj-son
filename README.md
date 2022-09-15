@@ -6,8 +6,13 @@
 
 </details>
 
+<details>
+    <summary>GitHub stats</summary>
 
 ![SJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sj-son&show_icons=true&theme=gruvbox)
+
+</details>
+
 
 
 <!--
