@@ -1,4 +1,4 @@
-💎SON SUNG JUN
+💎  SON SUNG JUN
 <details>
     <summary>Solved.ac</summary>
 
